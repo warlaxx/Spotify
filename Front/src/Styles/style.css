@@ -1,0 +1,21 @@
+* {
+  font-family: sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+.artiste:hover {
+  background-color: rgb(40, 40, 40);
+}
+
+.album:hover {
+  background-color: rgb(40, 40, 40);
+}
+
+.track:hover {
+  background-color: rgb(40, 40, 40);
+}
+
+.gender:hover {
+  background-color: rgb(40, 40, 40);
+}
